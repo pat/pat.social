@@ -1,0 +1,13 @@
+title: pat.social
+baseurl: ""
+url: "https://pat.social"
+twitter_username: pat
+
+theme: minima
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock

@@ -5,6 +5,9 @@ twitter_username: pat
 
 theme: minima
 
+plugins:
+  - jekyll-redirect-from
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
